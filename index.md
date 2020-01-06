@@ -2,7 +2,7 @@
 
 ## Contents
 
-Section 1: Wow, What a Concept!
+[Section 1: Wow, What a Concept!](section1/index.md)
 
 Section 2: Ship of Tools
 

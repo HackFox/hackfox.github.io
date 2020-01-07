@@ -10,7 +10,7 @@ Section 3: Franz and Other Lists
 
 [Section 4: Visual FoxPro Reference](section4/index.md)
 
-[Section 5: But Wait, There's More!](section4/index.md)
+[Section 5: But Wait, There's More!](section5/index.md)
 
 <hr>
 

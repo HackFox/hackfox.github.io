@@ -6,7 +6,7 @@
 
 [Section 2: Ship of Tools](section2/index.md)
 
-Section 3: Franz and Other Lists
+[Section 3: Franz and Other Lists](section3/index.md)
 
 [Section 4: Visual FoxPro Reference](section4/index.md)
 

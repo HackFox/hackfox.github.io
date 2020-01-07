@@ -4,7 +4,7 @@
 
 [Section 1: Wow, What a Concept!](section1/index.md)
 
-Section 2: Ship of Tools
+[Section 2: Ship of Tools](section2/index.md)
 
 Section 3: Franz and Other Lists
 

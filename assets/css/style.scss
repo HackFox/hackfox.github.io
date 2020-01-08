@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  margin:0 auto;
+  margin:0 auto; !important
 }
 
 section {
   float:right;
   padding-bottom:50px;
-  padding-left:300px;
+  padding-left:300px; !important
 }

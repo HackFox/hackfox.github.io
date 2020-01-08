@@ -3,12 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.wrapper {
-  margin:0 auto; !important
+.wrapperHackFox {
+  margin:0 auto;
 }
 
-section {
+.sectionHackFox {
   float:right;
   padding-bottom:50px;
-  padding-left:300px; !important
+  padding-left:300px;
 }

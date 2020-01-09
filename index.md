@@ -155,9 +155,9 @@ couple of things left to do. "Resource File" is a list of resources:
 books, periodicals, people and products. "What's in the Downloads"
 tells you what's available for download from this book.
 
-[Resource File](s6c1.md)
+[Resource File](section6/s6c1.md)
 
-[What's in the Downloads?](s6c2.md)
+[What's in the Downloads?](section6/s6c2.md)
 
 <hr>
 

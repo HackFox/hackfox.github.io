@@ -1,0 +1,11 @@
+To install the sample IntelliSense script described in "IntelliSense and Sensibility", do the following:
+ 
+USE (_FOXCODE) AGAIN SHARED
+APPEND FROM NEWFOXCODE
+USE
+ 
+NEWFOXCODE.DBF is included with the downloads for the Hacker's Guide to Visual FoxPro 7. If you want to use a different shortcut than "header", find the record with "header" in the ABBREV field in the FOXCODE table and change it to something else:
+ 
+USE (_FOXCODE) AGAIN SHARED
+REPLACE ABBREV WITH "your-shortcut" FOR ABBREV = "header"
+USE

@@ -7,8 +7,6 @@ by Tamar E. Granor, Ted Roche, Doug Hennig, and Della Martin, with Steven Black.
 Originally published by Hentzenwerke Publishing
 <br>Ted Roche, Technical Editor, Jeana Frazier, Copy Editor
 
-***COMMENT ABOUT AUTHORS, WHEN WRITTEN, OPEN SOURCE
-
 >The body<br>
  Of<br>
  Benjamin Franklin<br>
@@ -26,6 +24,8 @@ Originally published by Hentzenwerke Publishing
 >&mdash;Benjamin Franklin, *Epitaph on Himself*, 1728
 
 Dedicated to fostering the international communication of ideas, in the hopes of making the world a better place&mdash;now and for future generations.
+
+> Note: Hacker's Guide was written in the early 2000's, with the latest edition being updated for Visual FoxPro 7. The content of the documents on this site may be updated from the original book.
 
 ## Contents
 

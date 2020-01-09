@@ -8,7 +8,7 @@
 
 Section 4 is the meat of the book. You'll find a listing for every command, function, property, event, method and system variable. We've grouped them logically so that you can find several related topics in one place. For an explanation of the syntax we use for commands, see "How to Use This Book," back in the Introduction.
 
-[@](#AT) | [A](#A) | [B](#B) | [C](#C) | [D](#D)
+[@](#AT) \| [A](#A) \| [B](#B) \| [C](#C) \| [D](#D)
 
 [#DEFINE](s4g229.md)  
 [#ENDIF](s4g229.md)  

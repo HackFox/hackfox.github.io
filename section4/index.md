@@ -6,9 +6,9 @@
 <br>"The question is," said Humpty Dumpty, "which is to be master—that's all."
 <br>&mdash;Lewis Carroll, *Through the Looking-Glass*, 1872
 
-Section 4 is the meat of the book. You'll find a listing for every command, function, property, event, method and system variable. We've grouped them logically so that you can find several related topics in one place. For an explanation of the syntax we use for commands, see "How to Use This Book," back in the Introduction.
+Section 4 is the meat of the book. You'll find a listing for every command, function, property, event, method and system variable. We've grouped them logically so that you can find several related topics in one place. For an explanation of the syntax we use for commands, see ["How to Use This Book,"](..\section0\s0c8.html) back in the Introduction.
 
-[@](#AT) \| [A](#A) \| [B](#B) \| [C](#C) \| [D](#D)
+[@](#AT) \| [A](#A) \| [B](#B) \| [C](#C) \| [D](#D) \| [E](#E) \| [F](#F) \| [G](#G) \| [H](#H) \| [I](#I) \| [J](#J) \| [K](#K) \| [L](#L) \| [M](#M) \| [N](#N) \| [O](#O) \| [P](#P) \| [Q](#Q) \| [R](#R) \| [S](#S) \| [T](#T) \| [U](#U) \| [V](#V) \| [X](#X) \| [Y](#Y) \| [Z](#Z)
 
 [#DEFINE](s4g229.md)  
 [#ENDIF](s4g229.md)  
@@ -605,7 +605,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [DynamicForeColor](s4g358.md)  
 [DynamicInputMask](s4g694.md)  
 
-## E
+## <a name="E">E</a>
 [EDIT](s4g062.md)  
 [EditBox](s4g498.md)  
 [EditorOptions](s4g898.md)  
@@ -642,7 +642,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [EXPORT](s4g059.md)  
 [EXTERNAL](s4g223.md)  
 
-## F
+## <a name="F">F</a>
 [FCHSIZE()](s4g194.md)  
 [FCLOSE()](s4g194.md)  
 [FCOUNT()](s4g076.md)  
@@ -718,7 +718,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [FV()](s4g052.md)  
 [FWRITE()](s4g194.md)  
 
-## G
+## <a name="G">G</a>
 [_GALLERY](s4g160.md)  
 [GATHER](s4g078.md)  
 [_GENGRAPH](s4g160.md)  
@@ -762,7 +762,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [GridLines](s4g504.md)  
 [GridLineWidth](s4g367.md)  
 
-## H
+## <a name="H">H</a>
 [HalfHeightCaption](s4g599.md)  
 [Header](s4g488.md)  
 [HEADER()](s4g195.md)  
@@ -789,7 +789,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [HWnd](s4g868.md)  
 [Hyperlink](s4g695.md)  
 
-## I
+## <a name="I">I</a>
 [Icon](s4g602.md)  
 [ID()](s4g689.md)  
 [IDXCOLLATE()](s4g068.md)  
@@ -848,7 +848,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [ItemIdToIndex](s4g509.md)  
 [ItemTips](s4g698.md)  
 
-## J
+## <a name="J">J</a>
 [JOIN](s4g081.md)  
 [JUSTDRIVE()](s4g671.md)  
 [JUSTEXT()](s4g671.md)  
@@ -856,7 +856,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [JUSTPATH()](s4g671.md)  
 [JUSTSTEM()](s4g671.md)  
 
-## K
+## <a name="K">K</a>
 [KEY()](s4g266.md)  
 [KEYBOARD](s4g191.md)  
 [KeyboardHighValue](s4g373.md)  
@@ -865,7 +865,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [KeyPress](s4g374.md)  
 [KeyPreview](s4g374.md)  
 
-## L
+## <a name="L">L</a>
 [LABEL](s4g238.md)  
 [Label Control](s4g511.md)  
 [LanguageOptions](s4g899.md)  
@@ -925,7 +925,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [LTRIM()](s4g001.md)  
 [LUPDATE()](s4g082.md)  
 
-## M
+## <a name="M">M</a>
 [_MAC](s4g153.md)  
 [MacDesktop](s4g658.md)  
 [MainClass](s4g736.md)  
@@ -1007,7 +1007,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [MultiSelect](s4g516.md)  
 [MWINDOW()](s4g192.md)  
 
-## N
+## <a name="N">N</a>
 [Name](s4g612.md)  
 [NavigateTo](s4g726.md)  
 [NDX()](s4g040.md)  
@@ -1026,7 +1026,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [NUMLOCK()](s4g104.md)  
 [NVL()](s4g439.md)  
 
-## O
+## <a name="O">O</a>
 [Object](s4g700.md)  
 [_OBJECTBROWSER](s4g160.md)  
 [Objects](s4g701.md)  
@@ -1092,7 +1092,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [OS()](s4g119.md)  
 [OTHERWISE](s4g251.md)  
 
-## P
+## <a name="P">P</a>
 [PACK](s4g073.md)  
 [PACK DATABASE](s4g318.md)  
 [PackData](s4g856.md)  
@@ -1180,7 +1180,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [PV()](s4g052.md)  
 [_PWAIT](s4g240.md)  
 
-## Q
+## <a name="Q">Q</a>
 [QUARTER()](s4g030.md)  
 [QueryAddFile](s4g773.md)  
 [QueryModifyFile](s4g773.md)  
@@ -1191,7 +1191,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [QUIT](s4g121.md)  
 [Quit Method](s4g902.md)  
 
-## R
+## <a name="R">R</a>
 [RAND()](s4g055.md)  
 [RangeHigh](s4g382.md)  
 [RangeLow](s4g382.md)  
@@ -1308,7 +1308,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [_RUNACTIVEDOC](s4g713.md)  
 [RUNSCRIPT](s4g393.md)  
 
-## S
+## <a name="S">S</a>
 [_SAMPLES](s4g814.md)  
 [SAVE MACROS](s4g193.md)  
 [SAVE SCREEN](s4g185.md)  
@@ -1671,7 +1671,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [SYS(4204) Active Document Debugging Mode](s4g713.md)  
 [SYSMETRIC()](s4g182.md)  
 
-## T
+## <a name="T">T</a>
 [TabIndex](s4g544.md)  
 [TableRevert()](s4g407.md)  
 [TableUpdate()](s4g407.md)  
@@ -1726,7 +1726,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [TypeLibDesc](s4g740.md)  
 [TypeLibName](s4g740.md)  
 
-## U
+## <a name="U">U</a>
 [UIEnable](s4g564.md)  
 [UndoCheckOut](s4g751.md)  
 [Undock](s4g330.md)  
@@ -1743,7 +1743,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [USED()](s4g057.md)  
 [USER()](s4g689.md)  
 
-## V
+## <a name="V">V</a>
 [VAL()](s4g022.md)  
 [Valid](s4g413.md)  
 [VALIDATE DATABASE](s4g319.md)  
@@ -1771,7 +1771,7 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [VisualEffect](s4g628.md)  
 [VScrollSmallChange](s4g718.md)  
 
-## W
+## <a name="W">W</a>
 [WAIT](s4g293.md)  
 [WBORDER()](s4g259.md)  
 [WCHILD()](s4g260.md)  
@@ -1809,14 +1809,14 @@ Section 4 is the meat of the book. You'll find a listing for every command, func
 [WTITLE()](s4g259.md)  
 [WVISIBLE()](s4g261.md)  
 
-## X
+## <a name="X">X</a>
 [XMLTOCURSOR()](s4g863.md)  
 [XMLUPDATEGRAM()](s4g877.md)  
 
-## Y
+## <a name="Y">Y</a>
 [YEAR()](s4g030.md)  
 
-## Z
+## <a name="Z">Z</a>
 [ZAP](s4g096.md)  
 [ZOOM WINDOW](s4g190.md)  
 [ZoomBox](s4g659.md)  

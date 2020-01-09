@@ -53,7 +53,7 @@ You can reach Ted at [tedroche@tedroche.com](mailto:tedroche@tedroche.com).
 <img width="270" height="200" src="dhennig.jpg">
   </td>
   <td width="50%" valign="top">
-<img width="266" height="200" src="DevChoice.jpg">
+<img width="266" height="200" src="devchoice.jpg">
   </td>
  </tr>
 <tr>
@@ -80,7 +80,7 @@ Twitter: <a href="https://twitter.com/DougHennig" target="_blank">https://www.tw
 Personal Web site: <a href="http://DougHennig.com" target="_blank">http:/www./DougHennig.com</a>
 
 ## Della Martin
-![](TamarTedDella.jpg)
+![](tamarteddella.jpg)
 
 *Della
 (right), along with co-authors Tamar Granor and Ted Roche.*

@@ -53,7 +53,7 @@ of Visual FoxPro, starting with its history and covering the fundamentals of
 each of its major sub-languages. Think of it as the "If it's Tuesday, this
 must be Belgium" Tour of Visual FoxPro.
 
-["It's Always Been That Way"](section1/1c1.md)
+["It's Always Been That Way"](section1/s1c1.md)
 
 [DBF, FPT, CDX, DBC—Hike!](section1/s1c2.md)
 
